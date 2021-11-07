@@ -1,2 +1,4 @@
 # Rubeus GUI
- Front end for the command line Rubeus tool
+ A WPF front end for the command line Rubeus tool
+ 
+ Coming soon
